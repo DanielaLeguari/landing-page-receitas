@@ -1,2 +1,5 @@
 # landing-page-receitas
-Projeto Landing page sobre Receitas sem Glúten e Lactose
+
+- Projeto em construção
+
+## Projeto Landing page sobre Receitas sem Glúten e Lactose

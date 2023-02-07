@@ -15,17 +15,17 @@
         "subtitulo": "Mix super saudável para seu café da manhã!"
     },
     {
-        "imagem": "./src/img/card1-png.png",
+        "imagem": "./src/img/card5.png",
         "titulo": "Biscoitos da Alegria",
         "subtitulo": "Aprenda a fazer esses biscoitos delicosos para seus lanches!"
     },
     {
-        "imagem": "./src/img/card1-png.png",
+        "imagem": "./src/img/card4.png",
         "titulo": "Ovos mexidos",
         "subtitulo": "Ótima opção sem lactose para seu café da manhã!"
     },
     {
-        "imagem": "./src/img/card1-png.png",
+        "imagem": "./src/img/card6.png",
         "titulo": "Shake de frutas vermelhas",
         "subtitulo": "Aprenda a fazer esse super delicoso e prático shake!"
     }
