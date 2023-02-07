@@ -23,8 +23,8 @@
             class="navbar-toggler-icon"></span> </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto">
-            <li class="nav-item active"><a class="nav-link" href="#inicio">Início</a></li>
-            <li class="nav-item "><a class="nav-link" href="#">Lanches</a></li>
+            <li class="nav-item active"><a class="nav-link" href="#carouselExampleCaptions">Início</a></li>
+            <li class="nav-item "><a class="nav-link" href="#receitas">Receitas</a></li>
             <li class="nav-item "><a class="nav-link" href="#">Quem sou</a></li>
             <li class="nav-item "><a class="nav-link" href="#" data-bs-toggle="modal"
                 data-bs-target="#modal-contato">Contato</a></li>
@@ -75,66 +75,15 @@
 
     <!--card-->
     <section class="container-fluid bg-light" id="receitas">
-      <div class="row justify-content-center">
-        <article class="card borda-cor-especial card-largura p-0 m-4 col-12 col-md-4">
-          <img src="./src/img/card1-png.png" class="card-img-top .card-posicao-imagem" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Mix de Frutas e sementes</h5>
-            <p class="card-text">Receita super saudável para seu café da manhã!</p>
-            <a href="#" class="btn botao-cor-especial">Veja a receita</a>
-          </div>
-        </article>
+      <div id="cards-receitas" class="row justify-content-center">
+       
 
-        <article class="card borda-cor-especial card-largura p-0  m-4 col-12 col-md-4">
-          <img src="./src/img/carrosel2.png" class="card-img-top .card-posicao-imagem" alt="prato com fruta e sementes">
-          <div class="card-body">
-            <h5 class="card-title">Mini Torta de Pêra</h5>
-            <p class="card-text">Receita super saudável para seu café da manhã!</p>
-            <a href="#" class="btn botao-cor-especial">Veja a receita</a>
-          </div>
-        </article>
-
-        <article class="card borda-cor-especial card-largura p-0 m-4 col-12  col-md-4">
-          <img src="./src/img/card1-png.png" class="card-img-top .card-posicao-imagem"
-            alt="Mini torta com pêras caramelizadas">
-          <div class="card-body">
-            <h5 class="card-title">Mix de Frutas e sementes</h5>
-            <p class="card-text">Receita super saudável para seu café da manhã!</p>
-            <a href="#" class="btn botao-cor-especial">Veja a receita</a>
-          </div>
-        </article>
-
-        <article class="card borda-cor-especial card-largura p-0 m-4 col-12 col-md-4">
-          <img src="./src/img/card1-png.png" class="card-img-top .card-posicao-imagem" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Mix de Frutas e sementes</h5>
-            <p class="card-text">Receita super saudável para seu café da manhã!</p>
-            <a href="#" class="btn botao-cor-especial">Veja a receita</a>
-          </div>
-        </article>
-
-        <article class="card borda-cor-especial card-largura p-0 m-4 col-12 col-md-4">
-          <img src="./src/img/card1-png.png" class="card-img-top .card-posicao-imagem" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Mix de Frutas e sementes</h5>
-            <p class="card-text">Receita super saudável para seu café da manhã!</p>
-            <a href="#" class="btn botao-cor-especial">Veja a receita</a>
-          </div>
-        </article>
-
-        <article class="card borda-cor-especial card-largura p-0 m-4 col-12 col-md-4">
-          <img src="./src/img/card1-png.png" class="card-img-top .card-posicao-imagem" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Mix de Frutas e sementes</h5>
-            <p class="card-text">Receita super saudável para seu café da manhã!</p>
-            <a href="#" class="btn botao-cor-especial">Veja a receita</a>
-          </div>
-        </article>
       </div>
     </section>
 
     <footer class="bg-secondary p-3">
-      <p class="text-light m-0 text-center">Contato: <a class="text-light" href="#">email@receitassaudaveis.com.br</a></p>
+      <p class="text-light m-0 text-center">Contato: <a class="text-light" href="#">email@receitassaudaveis.com.br</a>
+      </p>
     </footer>
 
   </main>
@@ -158,7 +107,8 @@
           </div>
           <div class="mb-3">
             <label for="exampleFormControlTextarea1" class="form-label">Deixe seu comentário:</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Insira aqui seu comentário"></textarea>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"
+              placeholder="Insira aqui seu comentário"></textarea>
           </div>
         </main>
         <footer class="modal-footer">
@@ -168,7 +118,7 @@
       </dialog>
     </div>
   </div>
-
+  <script src="./src/script.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
     crossorigin="anonymous"></script>

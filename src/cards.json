@@ -1,0 +1,32 @@
+[
+    {
+        "imagem": "./src/img/card1-png.png",
+        "titulo": "Mix de Frutas e Sementes",
+        "subtitulo": "Receita super saudável para seu café da manhã!"
+    },
+    {
+        "imagem": "./src/img/carrosel2.png",
+        "titulo": "Mini Torta de Pêra",
+        "subtitulo": "Receita super saudável para seu lanche da manhã ou da tarde!"
+    },
+    {
+        "imagem": "./src/img/carrosel1.png",
+        "titulo": "Mix de Frutas e Sementes",
+        "subtitulo": "Mix super saudável para seu café da manhã!"
+    },
+    {
+        "imagem": "./src/img/card1-png.png",
+        "titulo": "Biscoitos da Alegria",
+        "subtitulo": "Aprenda a fazer esses biscoitos delicosos para seus lanches!"
+    },
+    {
+        "imagem": "./src/img/card1-png.png",
+        "titulo": "Ovos mexidos",
+        "subtitulo": "Ótima opção sem lactose para seu café da manhã!"
+    },
+    {
+        "imagem": "./src/img/card1-png.png",
+        "titulo": "Shake de frutas vermelhas",
+        "subtitulo": "Aprenda a fazer esse super delicoso e prático shake!"
+    }
+]
