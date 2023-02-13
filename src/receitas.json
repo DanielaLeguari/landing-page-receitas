@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Mix de Frutas e Sementes",
+        "ingredientes":"Frutas de sua preferência, sementes de abóbora sem casca, sementes de chia.",
+        "receita": "Pique em cubinhos as frutas, misture uma colher de sopa de sementes de abóbora tostadas na frigideira e uma colher de sopa de chia."
+    },
+    {
+        "id": 2,
+        "titulo": "Mini Torta de Pêra",
+        "ingredientes":"1 maçã, mel, 1 ovo, 1 colher de sopa de farinha e aveia, canela, 1 colher de café de fermento em pó.",
+        "receita": "Corte a maça em tiras e disponha na frigideira com canela e mel, deixar cozinhar.  Para a massa, misture o ovo, a farinha, pedaços de maçã, canela e o fermento. Misture e despeje na frigideira. Tampe a frigideira e deixe cozinhar em fogo baixo para não queimar."
+    },
+    {
+        "id": 3,
+        "titulo": "Mix de Frutas e Sementes",
+        "ingredientes":"Frutas de sua preferência, sementes de girassol sem casca, sementes de gergelim branco, iogurte vegetal.",
+        "receita": "Pique em cubinhos as frutas, adicione uma colher de sopa de sementes de girassol tostadas na frigideira e uma colher de sopa de geregelim branco levemente triturado, finalize com iogurte vegetal."
+    },
+    {
+        "id": 4,
+        "titulo": "Biscoitos da Alegria - Santa Hildegarda de Bingen",
+        "ingredientes":"90 g de manteiga, 250 g de farinha de trigo espelta/ trigo orgânico / trigo 00 / aveia, 1 ½ colheres de sopa rasa de cravo moído, 1 ½ colheres de sopa rasa de canela moída,1 ½ colheres de sopa rasa de noz moscada,70 g de farinha de amêndoas,80 g de açúcar mascavo,1 pitada de sal,2 ovos batidos",
+        "receita": "Coloque a farinha num recipiente largo, acrescente a manteiga derretida, o açúcar mascavo, a farinha de amêndoas, os ovos batidos, uma leve pitada de sal e as especiarias. Misture tudo até formar uma massa homogênea e deixe na geladeira por 30 minutos (proteger com plástico para não ressecar). Retire a massa da geladeira, sove-a por alguns minutos e abra-a com a ajuda de um rolo na espessura de 2-3 mm. Corte a massa na forma de pequenos biscoitos e coloque-os numa forma para assar, sobre um papel manteiga. Assar entre 15 a 20 minutos a 160-180 °C. Retire do forno, deixe-os esfriar e guarde-os em lugar fresco."
+    },
+    {
+        "id": 5,
+        "titulo": "Ovos mexidos",
+        "ingredientes":"Ovos, sal, curcumã, páprica, pimenta do reino, queijo vegetal",
+        "receita": "Coloque em uma firgideira antiaderente os ovos mexidos, adicione os temperos e o queijo vegetal picadinho, mexa até cozinhar. Você pode colocar orégano para finalizar."
+    },
+    {
+        "id": 6,
+        "titulo": "Shake de frutas vermelhas",
+        "ingredientes":"Frutas vermelhas congeladas, leite vegetal, whey protein.",
+        "receita": "Coloque as frutas congeladas no liquidificador, adicione leite vegetal e whey. Bater por alguns minutos até ficar cremoso. Se quiser pode colocar sementes."
+    }
+]

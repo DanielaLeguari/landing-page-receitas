@@ -36,3 +36,10 @@
 .card-largura{
     max-width: 18rem;
 }
+
+.img-modal{
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    align-items: center;
+}
