@@ -5,5 +5,5 @@
 ### Aplicação desktop
 
 <p align="center">
-<img width="600" src="./src/img/aplicacao-dexk.gif">
+<img width="600" src="./src/img/aplicacao-desk.gif">
 <p>
